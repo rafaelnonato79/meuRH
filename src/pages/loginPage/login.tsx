@@ -3,7 +3,6 @@ import homeRH from '../../assets/images/homeRH.png'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './login.css';
 import LoginComponent from '../../componentes/loginComponent';
-import { Link } from 'react-router-dom';
 
 
 

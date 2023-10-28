@@ -5,8 +5,8 @@
 .nav img{
     display: flex;
     flex-direction: column;
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
     align-items: center;
     margin-bottom: 2rem;
 }
@@ -16,6 +16,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: NunitoSans;
 }
 .logoRH{
     display: flex;

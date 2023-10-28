@@ -11,4 +11,9 @@
     border-left: 0;
     text-align: start;
     text-indent: 1rem;
+
+    font-family: 'Playpen Sans', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Sometype Mono', monospace;
 }
