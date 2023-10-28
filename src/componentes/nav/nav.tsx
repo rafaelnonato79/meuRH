@@ -11,7 +11,9 @@ function Nav(){
         <div className="nav">
             <div className="logoRH">
                 <h1>MEU RH</h1>
-                <img src={logoRH} alt="logoRH" />
+                <div className="imagem">
+                  <img src={logoRH} alt="logoRH" />
+                </div>
             </div>
             <div className="div titulos">
             <Link to="/">
