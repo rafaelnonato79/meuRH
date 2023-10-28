@@ -1,0 +1,28 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.left-login{
+    width: 50%;
+    height: 100vh;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color: rgba(128, 128, 128, 0.5); /* Cor acinzentada com 50% de transparência */
+    pointer-events: none; /* Evita que o overlay interfira com os elementos subjacentes */
+  }
+.right-login{
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
