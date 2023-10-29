@@ -20,7 +20,9 @@ function Nav(){
             <NavComponent title={'INICIO'}/>
             </Link>
             <NavComponent title={'PONTO'}/>
-            <NavComponent title={'BANCO DE HORAS'}/>
+            <Link to="/BancoDeHoras">
+              <NavComponent title={'BANCO DE HORAS'}/>
+            </Link>
             </div>
         </div>
     )
