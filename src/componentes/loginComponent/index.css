@@ -59,14 +59,14 @@
 .usuario{
     margin: 0;
     padding: 0;
-    width: 87%;
+    width: 100%;
 }
 
 .usuario input{
-    width: 90%;
+    width: 86%;
 }
 .senha{
-    width: 90%;
+    width: 100%;
     display: flex;
     justify-content: center;
 }

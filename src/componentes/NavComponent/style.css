@@ -16,4 +16,11 @@
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Mono', monospace;
     font-family: 'Sometype Mono', monospace;
+
+}
+
+.nav button:hover{
+    background-color:white;
+    color:black;
+    border-left: 3px solid rgb(255, 255, 255);
 }

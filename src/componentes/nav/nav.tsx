@@ -16,13 +16,20 @@ function Nav(){
                 </div>
             </div>
             <div className="div titulos">
-            <Link to="/">
+            <Link to="/homePage">
             <NavComponent title={'INICIO'}/>
             </Link>
+            <Link to="/Ponto">
             <NavComponent title={'PONTO'}/>
+            </Link>
             <Link to="/BancoDeHoras">
               <NavComponent title={'BANCO DE HORAS'}/>
             </Link>
+            </div>
+            <div className="sair">
+              <Link to="/">
+                <NavComponent title={'SAIR'}/>
+              </Link>
             </div>
         </div>
     )

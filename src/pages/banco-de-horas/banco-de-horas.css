@@ -1,0 +1,13 @@
+.banco{
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+.banco h2{
+    text-align: center;
+    font-size: 2.5rem;
+    margin: 0;
+    padding: 0;
+}
