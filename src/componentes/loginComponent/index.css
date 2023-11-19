@@ -42,6 +42,7 @@
     margin: 0;
     padding: 0;
     width: 50%;;
+    background-color: white;
 }
 
 .card input{
@@ -72,4 +73,10 @@
 }
 .senha input{
     width: 100%;
+}
+
+@media(max-width:575.98px){
+    .card{
+        padding: ;
+    }
 }
