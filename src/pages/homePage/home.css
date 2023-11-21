@@ -54,3 +54,32 @@
     justify-content: center;
     align-items: center;
 }
+
+
+@media(max-width: 415px){
+    .nav{
+        width: 20vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: row;
+        z-index: 1000;
+    }
+    .main{
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+    .ponto{
+        width: 80vw;
+    }
+    .calendar{
+        width: 80vw;
+    }
+    .timer{
+        width: 80vw;
+    }
+    .noticias{
+        width: 80vw;
+    }
+}
