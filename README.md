@@ -1,5 +1,5 @@
 # Meu RH
-Pagina de Login com funcionalidade de loguin, para acessar utilize: 
+Pagina de Login com funcionalidade de login, para acessar utilize: 
 usuario: usuario
 senha: senha
 
